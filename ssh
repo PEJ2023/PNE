@@ -60,4 +60,4 @@ print('---              Password: ', password)
 print('')
 print('----------------------------------------------')
 #terminate ssh session
-sessio
+session.close()
